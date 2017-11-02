@@ -1,0 +1,19 @@
+
+let y = 666
+
+let f = \x. x(y)  // ojo que es \x.(x(y)) no (\x.x)(y)
+//let f = x => x(666);
+
+let g = \x.x+y    // ojo que es \x.(x+y)
+//let g = x => x+666
+
+f(g)
+//:=> f = x => x(y)
+// => f = g => g(666)
+// :=> g = x => x+y
+//  => g = x => x+666
+    => g = x => 666 + 666
+
+
+// expected f(g) = g(y) = y + y = 666 + 666 = 1332
+

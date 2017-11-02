@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/jdani/Dropbox/D&amp;C/KOKO/COMPILADOR/kokoslan/src/src/java/ast/KoKoCall.java</file>
+            <file>file:/C:/Users/jdani/Dropbox/D&amp;C/KOKO/COMPILADOR/kokoslan/src/src/java/ast/KoKoProgram.java</file>
+            <file>file:/C:/Users/jdani/Dropbox/D&amp;C/KOKO/COMPILADOR/kokoslan/src/src/java/exception/KoKoNotFoundId.java</file>
+            <file>file:/C:/Users/jdani/Dropbox/D&amp;C/KOKO/COMPILADOR/kokoslan/src/src/java/ast/KoKoId.java</file>
+            <file>file:/C:/Users/jdani/Dropbox/D&amp;C/KOKO/COMPILADOR/kokoslan/src/cases/hw.kl</file>
+            <file>file:/C:/Users/jdani/Dropbox/D&amp;C/KOKO/COMPILADOR/kokoslan/src/src/java/ast/KoKoAst.java</file>
+            <file>file:/C:/Users/jdani/Dropbox/D&amp;C/KOKO/COMPILADOR/kokoslan/src/grammar/KoKoslan.g4</file>
+            <file>file:/C:/Users/jdani/Dropbox/D&amp;C/KOKO/COMPILADOR/kokoslan/src/bats/build_parser.bat</file>
+            <file>file:/C:/Users/jdani/Dropbox/D&amp;C/KOKO/COMPILADOR/kokoslan/src/src/java/ast/KoKoBool.java</file>
+            <file>file:/C:/Users/jdani/Dropbox/D&amp;C/KOKO/COMPILADOR/kokoslan/src/src/java/ast/KoKoBiOperation.java</file>
+            <file>file:/C:/Users/jdani/Dropbox/D&amp;C/KOKO/COMPILADOR/kokoslan/src/src/java/eval/KoKoListValue.java</file>
+            <file>file:/C:/Users/jdani/Dropbox/D&amp;C/KOKO/COMPILADOR/kokoslan/src/src/java/ast/KoKoMINUS.java</file>
+            <file>file:/C:/Users/jdani/Dropbox/D&amp;C/KOKO/COMPILADOR/kokoslan/src/src/java/ast/KoKoOperation.java</file>
+            <file>file:/C:/Users/jdani/Dropbox/D&amp;C/KOKO/COMPILADOR/kokoslan/src/src/java/ast/KoKoNum.java</file>
+            <file>file:/C:/Users/jdani/Dropbox/D&amp;C/KOKO/COMPILADOR/kokoslan/src/src/java/ast/KoKoLet.java</file>
+            <file>file:/C:/Users/jdani/Dropbox/D&amp;C/KOKO/COMPILADOR/kokoslan/src/src/java/eval/KoKoEvaluator.java</file>
+            <file>file:/C:/Users/jdani/Dropbox/D&amp;C/KOKO/COMPILADOR/kokoslan/src/src/java/ast/KoKoList.java</file>
+            <file>file:/C:/Users/jdani/Dropbox/D&amp;C/KOKO/COMPILADOR/kokoslan/src/src/java/eval/KoKoNumValue.java</file>
+            <file>file:/C:/Users/jdani/Dropbox/D&amp;C/KOKO/COMPILADOR/kokoslan/src/src/java/exception/KokoIdDuplicatedException.kt</file>
+            <file>file:/C:/Users/jdani/Dropbox/D&amp;C/KOKO/COMPILADOR/kokoslan/src/src/java/eval/KoKoContext.java</file>
+            <file>file:/C:/Users/jdani/Dropbox/D&amp;C/KOKO/COMPILADOR/kokoslan/src/src/java/eval/KoKoBoolValue.java</file>
+            <file>file:/C:/Users/jdani/Dropbox/D&amp;C/KOKO/COMPILADOR/kokoslan/src/src/java/eval/KoKoAtomValue.java</file>
+            <file>file:/C:/Users/jdani/Dropbox/D&amp;C/KOKO/COMPILADOR/kokoslan/src/src/java/exception/KoKoStackUnderflow.java</file>
+            <file>file:/C:/Users/jdani/Dropbox/D&amp;C/KOKO/COMPILADOR/kokoslan/src/src/java/eval/KoKoValue.java</file>
+            <file>file:/C:/Users/jdani/Dropbox/D&amp;C/KOKO/COMPILADOR/kokoslan/src/src/java/ast/KoKoAtom.java</file>
+            <file>file:/C:/Users/jdani/Dropbox/D&amp;C/KOKO/COMPILADOR/kokoslan/src/src/java/exception/KoKoEvalException.java</file>
+            <file>file:/C:/Users/jdani/Dropbox/D&amp;C/KOKO/COMPILADOR/kokoslan/src/src/java/compiler/KoKoEmiter.java</file>
+            <file>file:/C:/Users/jdani/Dropbox/D&amp;C/KOKO/COMPILADOR/kokoslan/src/src/java/ast/KoKoPLUS.java</file>
+            <file>file:/C:/Users/jdani/Dropbox/D&amp;C/KOKO/COMPILADOR/kokoslan/src/src/java/compiler/KoKoc.java</file>
+            <file>file:/C:/Users/jdani/Dropbox/D&amp;C/KOKO/COMPILADOR/kokoslan/src/src/java/compiler/KoKoCompiler.java</file>
+        </group>
+    </open-files>
+</project-private>
